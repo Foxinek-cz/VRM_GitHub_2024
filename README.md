@@ -54,7 +54,5 @@ Descriptions and solutions of small projects implemented during the semester.
 Link: [Activity](https://github.com/rparak/VRM_GitHub_Template_Student/tree/main/Activity)
 
 ## Contact Info:
-Roman.Parak@outlook.com
+jiri.hula@vutbr.cz
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
